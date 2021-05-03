@@ -1,1 +1,1 @@
-# distributed-git
+Learning git by doing
